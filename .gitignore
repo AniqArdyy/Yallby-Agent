@@ -1,0 +1,4 @@
+lp_tracker_state.json
+*.lock
+.env
+__pycache__/
