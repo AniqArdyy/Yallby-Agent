@@ -7,4 +7,4 @@ menerka-nerka preset/strategi orang lain."""
 
 
 def is_in_range(current_tick: int, tick_lower: int, tick_upper: int) -> bool:
-    return tick_lower <= current_tick <= tick_upper
+    return tick_lower <= current_tick < tick_upper
